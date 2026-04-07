@@ -1,7 +1,7 @@
 "use client";
 
 import MapLibreGL, { type PopupOptions, type MarkerOptions } from "maplibre-gl";
-import "maplibre-gl/dist/maplibre-gl.css";
+// import "maplibre-gl/dist/maplibre-gl.css";
 import { useTheme } from "next-themes";
 import {
   createContext,
